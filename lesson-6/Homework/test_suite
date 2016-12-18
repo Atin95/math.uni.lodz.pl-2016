@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="correct_credentials.html">correct_credentials</a></td></tr>
+<tr><td><a href="incorrect_credentials1.html">incorrect_credentials</a></td></tr>
+<tr><td><a href="no_password.html">no_password</a></td></tr>
+<tr><td><a href="no_username.html">no_username</a></td></tr>
+<tr><td><a href="no_username_and_password.html">no_username_and_password</a></td></tr>
+</tbody></table>
+</body>
+</html>
